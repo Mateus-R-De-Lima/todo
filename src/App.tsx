@@ -3,9 +3,7 @@
 export default function App() {
 
   return (
-    <>
-      Ola mundo!!
-    </>
+    <div className="text-red-500">Ola mundo</div>
   )
 }
 
